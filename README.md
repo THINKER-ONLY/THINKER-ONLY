@@ -25,8 +25,10 @@
  
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=THINKER-ONLY&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=THINKER-ONLY&abbreviated=true&color=red" />
 </p>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
