@@ -29,6 +29,8 @@
 </p>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=THINKER-ONLY)
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
