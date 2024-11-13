@@ -7,7 +7,23 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Kingdom!;I+am+super+obsessed+with+programming!" />
 </p>
- 
+
+<table rules="none" align="center">
+		<td>
+			<center>
+				<img src="https://github-readme-stats.vercel.app/api?username=THINKER-ONLY&show_icons=true&theme=tokyonight&include_all_commits=true" width="100%" />
+				</img>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THINKER-ONLY&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&hide=EJS,GLSL,CSS,HTML,Stylus" width="100%" />
+				</img>
+			</center>
+		</td>
+</table>
+
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=THINKER-ONLY&theme=maroongold&hide_border=%E5%81%87&mode=weekly" alt="GitHub Streak" /></a>
 <br/>
