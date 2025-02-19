@@ -36,7 +36,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THINKER-ONLY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,linux,css,html,js&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,linux,css,html,js&theme=light" />
 </p>
  
 
